@@ -1,0 +1,33 @@
+.create-box {
+    background-image:url(/img/coffee\ in\ a\ cup.png);
+    width: 1280px;
+    height: 450px;
+    padding-top: 137px;
+    border-radius: 10px;
+    margin-top: 45px;
+}
+
+.create-plan__title {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FEFCF7;
+    margin-left: 86px;
+}
+
+.create-plan__text {
+    width: 445px;
+    height: 78px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.7;
+    margin-left: 86px;
+    margin-top: 32px;
+}

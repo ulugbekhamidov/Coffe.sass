@@ -1,0 +1,47 @@
+.main-site__footer {
+    background-color: #2C343E;
+    width: 1280px;
+    height: 120px;
+    display: flex;
+    margin-top: 168px;
+}
+
+.growers-footer__box {
+    margin-top: 53px;
+    margin-left: 103px;
+    ul {
+        display: flex;
+        align-items:center;
+        gap: 33px;
+    }
+    li {
+        list-style-type: none;
+    }
+    a {
+        text-decoration: none;
+        white-space: nowrap;
+        width: 270px;
+        font-family: 'Barlow';
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+        letter-spacing: 0.923077px;
+        color: #aaa;
+    }
+    a:hover {
+        opacity: 1;
+        color: #fff;
+        transition: 0.3s ease;
+    }
+}
+
+.main-site-footer__img {
+    margin: 47px;
+}
+
+.fot-site__icon {
+    margin-top: 53px;
+    margin-left: 369px;
+    display: flex;
+    gap: 24px;
+}

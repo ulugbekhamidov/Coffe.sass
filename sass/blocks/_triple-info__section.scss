@@ -1,0 +1,71 @@
+.our-collection__text {
+    position: absolute;
+    z-index: 1;
+    white-space: nowrap;
+    font-size: 190px;
+    opacity: 0.2;
+    background: linear-gradient(180deg, rgba(254, 252, 247, 0.0001) 0%, #FEFCF7 100%);
+}
+
+.triple-info__box {
+    width: 1111px;
+    margin-top: 140px;
+    margin-left: 78px;
+}
+
+.triple-info__inner {
+    display: flex;
+    gap: 55px;
+    margin-left: 90px;
+    margin-top: 107px;
+}
+
+.our-collection__img {
+    position: relative;
+    z-index: 1; 
+    margin-top: 126px;
+}
+
+.site-triple__info-watch {
+    display: flex;
+    margin-left: 86px;
+    margin-top: 71.55px;
+    gap: 30px;
+}
+
+.site-triple__info {
+    text-align: center;
+}
+
+.triple-info__espresso {
+    width: 255px;
+    height: 32px;
+    text-decoration: none;
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    align-items:center; 
+    color: #333D4B;
+}
+
+.triple-info__espresso:hover{
+    color: #333D4B;
+    opacity: 0.8;
+    transition: 0.3s ease;
+    text-decoration: underline;
+}
+
+.info-espresso__text {
+    font-family: 'Barlow';
+    width: 255px;
+    height: 78px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;
+    color: #333D4B;
+    opacity: 0.5;
+}

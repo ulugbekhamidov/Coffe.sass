@@ -1,0 +1,40 @@
+.over-roasting {
+    height: 32px;
+    top: calc(50% - 32px/2 - 266.5px);
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    margin-left: 85px;
+    margin-top: 168px;
+    color: #83888F;
+}
+
+.over-roasting__site {
+    display: flex;
+    gap: 95px;
+    margin-left: 85px;
+    margin-top: 72px;
+}
+
+.over-roasting__text {
+    width: 272px;
+    height: 36px;
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    margin-top: 50px;
+    color: #333D4B;
+}
+
+.control-program {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}

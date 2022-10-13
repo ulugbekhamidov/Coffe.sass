@@ -1,0 +1,103 @@
+.health-control__section {
+    margin-top: 312px;
+    gap: 95px;
+}
+
+.how-works {
+    height: 32px;
+    top: calc(50% - 32px/2 - 266.5px);
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    margin-left: 65px;
+    color: #83888F;
+}
+
+.line-dot {
+    margin-top: 80px;
+    margin-left: 65px;
+    display: flex;
+    gap: 349px;
+}
+
+.circle-tre {
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+    background: #FEFCF7;
+    border: 2px solid #0E8784; 
+}
+
+.circle-line__dot{
+    width: 760px;
+    height: 1px;
+    border: 2px solid #FDD6BA;
+    margin-left: 80px;
+    margin-top: -18px;
+}
+
+.health-control__site {
+    display: flex;
+    margin-left: 65px;
+    gap: 95px;
+}
+
+.control-site__box {
+    margin-top: 67px;
+}
+
+.control-one__start {
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 72px;
+    color: #FDD6BA;
+}
+
+.control-health {
+    width: 255px;
+    height: 73px;
+    margin-top: 38px;
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    color: #333D4B;
+}
+
+.health-for__you {
+    width: 285px;
+    height: 130px;
+    margin-top: 42px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    color: #333D4B;
+    opacity: 0.5;
+}
+
+.info-watch__btn {
+    background: #66D2CF;
+    width: 217px;
+    height: 56px;
+    margin-top: 56px;
+    margin-left: 3px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    font-family: 'Fraunces 9pt';
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FEFCF7;
+}
+
+.info-watch__btn:hover {
+    background: #0E8784;
+    transition: 0.3s ease;
+}

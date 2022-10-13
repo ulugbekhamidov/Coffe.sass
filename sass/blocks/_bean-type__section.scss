@@ -1,0 +1,318 @@
+.bean-type__section {
+    display: flex;
+    margin-left: 77px;
+    margin-top: 159px;
+    gap: 125px;
+}
+
+.bean-type--link {
+    a {
+        cursor: pointer;
+        display:inline-flex;
+        align-items:center;
+        gap: 28.15px;
+        margin: 20px;
+        text-decoration: none;
+    }
+}
+
+.bean-section__number--one {
+    color: #0E8784;
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.brand-section__text {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.bean-section--line {
+    width: 235px;
+    height: 1px;
+    margin-left: 15px;
+    background: #83888F;
+    mix-blend-mode: normal;
+    opacity: 0.25;  
+}
+
+.bean-section__text {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.bean-section__number {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+    opacity: 0.3;
+}
+
+.bean-section__text--diliver {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;
+}
+
+.bean-section__number--five {
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #83888F;
+}
+
+.title-box {
+    display: flex;
+    gap: 80px;
+    margin-top: 30px;
+}
+
+.arrow-input {
+    margin-left: 90px;
+}
+
+.title-input {
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #83888F;
+}
+
+.visually-hidden {
+    clip: rect(0 0 0 0);
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+    border: 0;
+    padding: 0;
+    margin: -1px;
+}
+
+.checked-box {
+    position: relative;
+}
+
+.form-input__choice {
+    display: flex;
+    align-items: center;
+    gap: 23px;
+}
+
+.label-radio__box {
+    display: inline-flex;
+    flex-direction: column;
+    width: 228px;
+    height: 250px;
+    margin-top: 56px;
+    background: #F4F1EB;
+    border-radius: 8px;
+}
+
+.first-text__label {
+    font-family: 'Fraunces';
+    font-style: normal;
+    margin-left: 28px;
+    margin-top: 100px;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333D4B;
+    position: absolute;
+    top: -1px;
+}
+
+.second-text__label {
+    font-family: 'Barlow';
+    font-style: normal;
+    margin-left: 28px;
+    margin-top: 98px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+}
+
+.label-radio__box:hover {
+    background: #FDD6BA;
+    cursor: pointer;
+}
+
+.checked-box input[type="radio"]:checked + .label-radio__box {
+    background: #0E8784;
+    color: #FFF;
+}
+
+.checked-box input[type="radio"]:checked + .label-radio__box span {
+    color: white;
+}
+
+.specific-farm__box {
+    display: flex;
+}
+
+.specific-farm--title {
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #83888F;
+}
+
+.specific-farm__box {
+    margin-left: 456px;
+    margin-top: 88px;
+}
+
+.what-type--box {
+    margin-left: 456px;
+}
+
+.arrow-top {
+    margin-left: 340px;
+}
+
+.similar-brewers--box {
+    display: flex;
+    margin-left: 456px;
+    margin-top: 88px;
+}
+
+.similar-brewers--title {
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #83888F;
+}
+
+.arrow-top__img {
+    margin-left: 220px;
+}
+
+.offices-and--box {
+    display: flex;
+    margin-left: 456px;
+    margin-top: 88px;
+}
+
+.offices-and--title {
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #83888F;
+}
+
+.arrow-offices {
+    margin-left: 280px;
+}
+
+.pour-over--box {
+    display: flex;
+    margin-left: 456px;
+    margin-top: 88px;
+}
+
+.pour-over__title {
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #83888F;
+}
+
+.arrow-over {
+    margin-left: 170px;
+}
+
+.box-info__recipe {
+    background: #2C343E;
+    width: 730px;
+    height: 208px;
+    margin-left: 457px;
+    padding-left: 64px;
+    padding-top: 27px;
+    margin-top: 84px;
+    margin-bottom: 40px;
+}
+
+.order-summary {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin-bottom: 8px;
+}
+
+.recipe-text {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.information-recipe {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 40px;
+    color: #0E8784;
+}
+
+.create__my--plan {
+    background: #0E8784;
+    border-radius: 6px;
+    padding: 15px 35.5px;
+    cursor: pointer;
+    color: #FEFCF7;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 25px;
+    border: none;
+    outline: none;
+    margin-left: 950px;
+    margin-bottom: 168px;
+}
+
+.create__my--plan:hover {
+    transition: 0.3s ease;
+    background: #66D2CF;
+}

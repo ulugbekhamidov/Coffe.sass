@@ -1,0 +1,92 @@
+.brand-section {
+    width: 1280px;
+    height: 600px;
+    margin-top: 179.45px;
+    background: #333D4B;
+    border-radius: 10px;
+}
+
+.brand-why__choose {
+    padding-top: 121px;
+    justify-content: center;
+    top: calc(50% - 48px/2 - 56px);
+    font-family: 'Fraunces 9pt';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #FEFCF7;
+}
+
+.means-working {
+    width: 540px;
+    height: 80px;
+    margin-left: 370px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    justify-content: center;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    margin-top: 32px;
+}
+
+.special-offers {
+    gap: 30px;
+    display: flex;
+    margin-left: 85px;
+    margin-top: 67px;
+}
+
+.special-offers__box--form {
+    margin-top: 56px;
+}
+
+.special-offers__box {
+    width: 350px;
+    height: 382px;
+    text-align: center;
+    justify-content: center;
+    background: #0E8784;
+    border-radius: 8px;;
+}
+
+.site-specal__logo {
+    top: calc(50% - 32px/2 - 51px);
+    text-decoration: none;
+    font-family: 'Fraunces', serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #FEFCF7;
+}
+
+.site-specal__logo:hover{
+    opacity: 0.7;
+    transition: 0.3s ease;
+}
+
+.coffee-image {
+    margin-top: 72px;
+}
+
+.site-specal__text {
+    width: 255px;
+    height: 78px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FEFCF7;
+    margin-left: 47px;
+    margin-top: 24px;
+}
